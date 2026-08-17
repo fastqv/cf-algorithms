@@ -1,1 +1,1 @@
-templates for competitive programming
+Templates for competitive programming, mainly codeforces
